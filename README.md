@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I’m currently working on YouTube SEO Analyzer using Springboot and MySQL<br>👯 I’m looking to collaborate on Java Backend / Web Development projects<br>🌱 I’m currently learning and advancing my skills in Spring Boot (Backend Development)<br>⚡ Fun fact: I enjoy solving real-world problems through code and continuously improving my backend skills 🚀
+<br>👯 I’m looking to collaborate on Java Backend / Web Development projects<br>🌱 I’m currently learning and advancing my skills in Spring Boot (Backend Development)<br>⚡ Fun fact: I enjoy solving real-world problems through code and continuously improving my backend skills 🚀
 
 
 ## 🌐 Socials:
